@@ -12,3 +12,7 @@ UK Biobank database https://www.ukbiobank.ac.uk/. Spatiotemporal gene expression
 
 # Software
 Analyses were conducted using R version 3.5.2. We used H-MAGMA for SNP to gene mapping. Details on how to use H-MAGMA and required reference files can be found here https://github.com/thewonlab/H-MAGMA.
+
+# Scripts
+
+1) FB_hmagma.sh : sample code for snp-to-gene mapping. Shown for region one measured using surface area. Annotation files can be accessed here https://github.com/thewonlab/H-MAGMA/tree/master/Input_Files. 
