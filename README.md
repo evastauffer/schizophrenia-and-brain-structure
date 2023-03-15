@@ -16,3 +16,6 @@ Analyses were conducted using R version 3.5.2. We used H-MAGMA for SNP to gene m
 # Scripts
 
 1) FB_hmagma.sh : sample code for snp-to-gene mapping. Shown for region one measured using surface area. Annotation files can be accessed here https://github.com/thewonlab/H-MAGMA/tree/master/Input_Files. 
+
+
+X) FUMA enrichments were analysed using the FUMA web interface https://fuma.ctglab.nl/
